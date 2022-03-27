@@ -1,5 +1,5 @@
 # Awesome Cyber Security Datasets 
-Good for Developing Machine Learning Algorithms for cyber security detection and response 
+Develop Machine Learning Algorithms for detecting security threats 
 
 ## Datasets
 * [Microsoft Malware Datasets](https://www.kaggle.com/competitions/microsoft-malware-prediction/data)
